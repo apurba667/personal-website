@@ -18,6 +18,12 @@ h3{
     color: rgba(54, 57, 88, 1);
     font-size: 30px;
 }
+h4{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 30px;
+    color: rgba(54, 57, 88, 1);
+}
 p{
     color: dimgray;
 }
@@ -68,4 +74,48 @@ section{
 }
 .three-parts img{
     width: 100%;
+}
+.last{
+    position: relative;
+    width: 80%;
+    margin: 10px 200px;
+}
+.text{
+    font-size: 400%;
+    position :absolute;
+    bottom: 350px;
+    right: 1000px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.chat{
+    position :absolute;
+    bottom: 425px;
+    right: 200px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.final{
+    font-size: 60px;
+    text-align: center;
+    color: rgba(54, 57, 88, 1)
+}
+.insta{
+    position: absolute;
+    right: 530px;
+}
+.uk{
+    position: absolute;
+    right: 670px;
+}
+.last-icon{
+    position: absolute;
+    right: 820px;
+}
+.icons{
+    height: 5px;
+    width: 5px;
 }
