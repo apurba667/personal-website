@@ -7,8 +7,8 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 h1{
-    color: rgba(54, 57, 88, 1);
-    font-size: 50px;
+    color: rgb(38, 40, 63);
+    font-size: 70px;
 }
 h2{
     color: rgba(54, 57, 88, 1);
@@ -25,7 +25,8 @@ h4{
     color: rgba(54, 57, 88, 1);
 }
 p{
-    color: dimgray;
+    color: rgb(33, 41, 56);
+    font-size: 30px;
 }
 .half-width{
     width: 40%;
@@ -38,6 +39,9 @@ p{
 }
 .name{
     color: rgba(255, 131, 103, 1);
+}
+.about{
+    text-align: center;
 }
 section{
     height: 500px;
@@ -55,13 +59,13 @@ section{
 }
 .CV{
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 320px;
 }
 .bottom{
     background-color: rgb(240, 247, 247);
 }
 .buttom-title{
-    padding-top: 50px;
+    padding-top: 40px;
     text-align: center;
 }
 .three-parts{
@@ -71,7 +75,7 @@ section{
     float: left;
     margin-left: 7%;
     padding-left: 2%;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .three-parts img{
     width: 100%;
