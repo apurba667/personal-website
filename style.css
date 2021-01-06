@@ -141,8 +141,8 @@ section{
 }
 .part-one{
    position: absolute;
-   left: 280px;
-   top: 2800px;
+   left: 240px;
+   top: 2780px;
 }
 .part-two{
     font-size: 25px;
@@ -160,8 +160,8 @@ section{
 }
 .part-three{
     position: absolute;
-    top: 2800px;
-    left: 1550px;
+    top: 2780px;
+    left: 1500px;
 }
 .part-four{
     position: absolute;
