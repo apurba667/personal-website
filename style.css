@@ -61,6 +61,7 @@ section{
     background-color: rgb(240, 247, 247);
 }
 .buttom-title{
+    padding-top: 50px;
     text-align: center;
 }
 .three-parts{
@@ -118,4 +119,57 @@ section{
 .icons{
     height: 5px;
     width: 5px;
+}
+.special{
+    height: 500px;
+    background-color: rgb(238, 255, 255);
+    padding-left: 30px;
+    padding-right: 40px;
+}
+.special img{
+    height: 500px;
+    width: 80%;
+    margin-top: 80px;
+    position: relative;
+    border: 5px solid rgb(177, 203, 226);
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgb(0, 0, 0) ;
+}
+.part-one{
+   position: absolute;
+   left: 280px;
+   top: 2800px;
+}
+.part-two{
+    font-size: 25px;
+    position: absolute;
+    left: 200px;
+   top: 2910px;
+   color: rgb(255, 255, 255);
+}
+.part-five{
+    font-size: 25px;
+    position: absolute;
+    left: 120px;
+   top: 2960px;
+   color: rgb(255, 255, 255);
+}
+.part-three{
+    position: absolute;
+    top: 2800px;
+    left: 1550px;
+}
+.part-four{
+    position: absolute;
+    top: 2910px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    left: 1400px;
+}
+.part-six{
+    position: absolute;
+    top: 2960px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    left: 1400px;
 }
